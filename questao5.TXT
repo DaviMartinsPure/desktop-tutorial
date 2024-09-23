@@ -1,0 +1,22 @@
+na sala das lampadas ligo
+
+o primeiro interruptor eo terceiro interruptor
+na primeira ida vou ate a sala das lampadas e vejo quais ficaram acesas
+e e anoto
+
+exemplo se a primeira ea terceira lampada ficaram acesas
+
+sei que a segunda lampada percetence ao interruptor nao acendido 
+
+volto a sala das lampadas
+
+apago outro interruptor 
+
+na segunda ida na sala das lampadas vejo qual apagou e qual permaneceu 
+acesa
+
+se a que apagou pertence ao interruptor que eu desliguei supondo que seja o primeiro a ordem e
+
+1 interruptor apagado (agora = primeira lampada
+2 interruptor nunca acendi = segunda lampada
+3 interruptor ainda esta aceso = terceira lampada
